@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="628535d6-fc70-453b-8c08-a13f308b499a" name="Changes" comment="netbeans stuff ig" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eklrieatss&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eklrieatss/RSAVerschluesselung.git&quot;,
+    &quot;accountId&quot;: &quot;bb75b78d-1ec0-49c6-8ad1-b5d2a4002ab7&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.579207247149347E-7" />
+      <entry key="MS500" value="0.0757732253797651" />
+      <entry key="S2" value="0.8865314066180756" />
+      <entry key="S5" value="1.554363415184755" />
+      <entry key="S10" value="2.0501495442772724" />
+      <entry key="S30" value="3.493096145883834" />
+      <entry key="S60" value="6.172277851390167" />
+      <entry key="M2" value="9.908334596921472" />
+      <entry key="M5" value="15.073322278756454" />
+      <entry key="M10" value="20.046592274842485" />
+      <entry key="M15" value="23.185705165553887" />
+      <entry key="M30" value="27.852421018085817" />
+      <entry key="H1" value="31.03569582502038" />
+      <entry key="H2" value="32.90777174999505" />
+      <entry key="H4" value="33.9246298512027" />
+      <entry key="D1" value="34.81655156071229" />
+      <entry key="W1" value="34.97368762124563" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000271212703" />
+      <entry key="S2" value="1.0128329797706404" />
+      <entry key="S5" value="1.175205535590977" />
+      <entry key="S10" value="1.4280835862923482" />
+      <entry key="S30" value="2.0476404202004925" />
+      <entry key="S60" value="2.7364981291535146" />
+      <entry key="M2" value="3.520879766563063" />
+      <entry key="M5" value="4.707828324236447" />
+      <entry key="M10" value="6.277675817399906" />
+      <entry key="M15" value="7.3978268477603475" />
+      <entry key="M30" value="9.16149241599003" />
+      <entry key="H1" value="10.409542613926478" />
+      <entry key="H2" value="11.156214917704297" />
+      <entry key="H4" value="11.565161512364085" />
+      <entry key="D1" value="11.925655874381206" />
+      <entry key="W1" value="11.989332605232617" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.139848176515429E-7" />
+      <entry key="MS500" value="0.11115026551949209" />
+      <entry key="S2" value="1.3113480867394636" />
+      <entry key="S5" value="2.3570563390358306" />
+      <entry key="S10" value="3.208024449074977" />
+      <entry key="S30" value="5.389854708613869" />
+      <entry key="S60" value="8.798601416917009" />
+      <entry key="M2" value="13.351628534471566" />
+      <entry key="M5" value="19.727105007080127" />
+      <entry key="M10" value="26.275388191057825" />
+      <entry key="M15" value="30.540279762618113" />
+      <entry key="M30" value="36.98402025158003" />
+      <entry key="H1" value="41.4274261039643" />
+      <entry key="H2" value="44.054234585564394" />
+      <entry key="H4" value="45.484685376610315" />
+      <entry key="D1" value="46.74132281428171" />
+      <entry key="W1" value="46.962893005825975" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KGXjfxDqd4NKPjPmBKZaQSo0xc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;154&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/NetBeansProjects/RSA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="628535d6-fc70-453b-8c08-a13f308b499a" name="Changes" comment="" />
+      <created>1791185015192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791185015192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="netbeans stuff ig" />
+    <option name="LAST_COMMIT_MESSAGE" value="netbeans stuff ig" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
