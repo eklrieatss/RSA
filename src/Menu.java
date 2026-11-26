@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.math.BigInteger;
 
 public class Menu extends JFrame {
     private JTextArea textArea1;
@@ -33,11 +34,19 @@ public class Menu extends JFrame {
     public Menu(){
 
 
-
         setContentPane(panel);
+
         inKlarButton.addActionListener(e -> {
-            System.out.println(panel.getSize());
+            String text = "";
+            for (String s: textArea2.getText().split(" ")){
+                text += (char) Integer.parseInt(s);
+            }
+            textArea1.setText(text);
+
         });
+
+
+
         button1.addActionListener(event -> {
             q = Integer.parseInt(qInput.getText());
             p = Integer.parseInt(pInput.getText());
@@ -67,21 +76,45 @@ public class Menu extends JFrame {
 
 
             dInput.setText(d + "");
-            geheimInput.setText(d + "");
+            geheimInput.setText(d + "," + N);
             oeffentlichInput.setText(e + "," + N);
 
         });
         inAsciiButton.addActionListener(event -> {
             String text = "";
             for (char c: textArea1.getText().toCharArray()){
-                textArea2.setText(text += (int) c + ",");
+                textArea2.setText(text += (int) c + " ");
             }
         });
-        kodierenButton.addActionListener(e -> {
-            String text = "";
-            for (String s: textArea2.getText().split(",")){
-                int i = Integer.parseInt(s);
+        kodierenButton.addActionListener(event -> {
+            BigInteger e = new BigInteger(oeffentlichInput.getText().split(",")[0].trim());
+            BigInteger N = new BigInteger(oeffentlichInput.getText().split(",")[1].trim());
+
+            String s = "";
+
+            for (String c : textArea2.getText().trim().split("\\s+")) {
+                BigInteger m = new BigInteger(c);
+                BigInteger verschluesselt = m.modPow(e, N);
+                s += verschluesselt + " ";
             }
+
+            textArea3.setText(s.trim());
+        });
+
+        dekodierenButton.addActionListener(event -> {
+                BigInteger d = new BigInteger(geheimInput.getText().split(",")[0].trim());
+                BigInteger N = new BigInteger(geheimInput.getText().split(",")[1].trim());
+
+
+                String s = "";
+
+                for (String t: textArea3.getText().split(" ")){
+                    BigInteger c = new BigInteger(t.trim());
+                    BigInteger m = c.modPow(d, N);
+                    s += m + " ";
+                }
+
+                textArea2.setText(s);
         });
     }
 
